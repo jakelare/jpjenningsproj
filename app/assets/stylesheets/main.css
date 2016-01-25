@@ -38,10 +38,9 @@
 }
 
 .landing-page-icon {
-    height: 100px;
-    padding-left: 1270px;
-    margin-top: 299px;
-
+    height: 85px;
+    padding-left: 1297px;
+    margin-top: 271px;
 }
 .about-section {
 	height: 0vh;
@@ -136,10 +135,24 @@ a:focus {
 .about-info {
 	font-family: BrandonGrotesque-Light;
     color: #000000;
-    font-size: 25px;
+    font-size: 21px;
     padding-left: 683px;
-    margin-top: -593px;
+    margin-top: -570px;
 
+}
+
+.about-info-bold {
+    font-family: BrandonGrotesque-Light;
+    color: #000000;
+    font-size: 20px;
+    padding-left: 799px;
+}
+
+.about-info-bottom {
+    font-family: BrandonGrotesque-Light;
+    color: #000000;
+    font-size: 21px;
+    padding-left: 683px;
 }
 
 .about-line-top {
@@ -167,7 +180,7 @@ a:focus {
 
 .services-line-bottom {
     width: 85%;
-    margin-top: 172px;
+    margin-top: 145px;
     border: 0;
     border-top: 3px solid #000000;
 }
@@ -197,7 +210,7 @@ a:focus {
 
 .contact-line-bottom {
     width: 85%;
-    margin-top: 310px;
+    margin-top: 280px;
     border: 0;
     border-top: 3px solid #000000;
 }
@@ -226,12 +239,28 @@ a:focus {
     
 }
 
-.services-info {
+.services-info-top {
 	font-family: BrandonGrotesque-Light;
     color: #000000;
-    font-size: 32px;
-    margin-top: -516px;
-    padding-left: 850px;
+    font-size: 21px;
+    margin-top: -560px;
+    padding-left: 817px;
+}
+
+.services-info-left {
+    font-family: BrandonGrotesque-Light;
+    color: #000000;
+    font-size: 21px;
+    padding-left: 816px;
+    margin-top: 50px;
+}
+
+.services-info-right {
+    font-family: BrandonGrotesque-Light;
+    color: #000000;
+    font-size: 21px;
+    padding-left: 240px;
+    margin-top: -159px;
 }
 
 .clients-info {
@@ -242,6 +271,7 @@ a:focus {
 }
 
 .contact-info {
+    font-family: BrandonGrotesque-Light;
     font-size: 21px;
     margin-top: 250px;
 }

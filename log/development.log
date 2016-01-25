@@ -70484,3 +70484,776 @@ Processing by SiteController#index as HTML
   Rendered site/_contact.html.erb (0.0ms)
   Rendered site/index.html.erb within layouts/application (62.7ms)
 Completed 200 OK in 228ms (Views: 228.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 18:52:05 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (1.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (22.6ms)
+  Rendered site/_services.html.erb (19.4ms)
+  Rendered site/_clients.html.erb (176.0ms)
+  Rendered site/_contact.html.erb (0.7ms)
+  Rendered site/index.html.erb within layouts/application (517.8ms)
+Completed 200 OK in 1589ms (Views: 1588.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-a8fb336a86d0b752c524a35232272520e91cf9354af74ee093c1ef27a2901b68.css?body=1" for ::1 at 2016-01-24 18:52:07 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 18:52:46 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.3ms)
+  Rendered site/_services.html.erb (2.9ms)
+  Rendered site/_clients.html.erb (31.2ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (49.5ms)
+Completed 200 OK in 200ms (Views: 199.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 18:52:53 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.6ms)
+  Rendered site/_services.html.erb (4.0ms)
+  Rendered site/_clients.html.erb (21.9ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (41.9ms)
+Completed 200 OK in 181ms (Views: 180.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 18:53:04 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (7.6ms)
+  Rendered site/_services.html.erb (7.8ms)
+  Rendered site/_clients.html.erb (27.4ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (65.3ms)
+Completed 200 OK in 185ms (Views: 184.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 18:53:04 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.6ms)
+  Rendered site/_services.html.erb (6.2ms)
+  Rendered site/_clients.html.erb (21.6ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (45.8ms)
+Completed 200 OK in 166ms (Views: 165.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 18:55:09 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.1ms)
+  Rendered site/_services.html.erb (6.0ms)
+  Rendered site/_clients.html.erb (39.5ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (64.6ms)
+Completed 200 OK in 210ms (Views: 209.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 18:55:46 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (5.3ms)
+  Rendered site/_services.html.erb (4.8ms)
+  Rendered site/_clients.html.erb (27.2ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (51.3ms)
+Completed 200 OK in 216ms (Views: 216.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 18:56:21 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (5.8ms)
+  Rendered site/_services.html.erb (5.0ms)
+  Rendered site/_clients.html.erb (24.5ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (49.8ms)
+Completed 200 OK in 194ms (Views: 194.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 18:56:43 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.4ms)
+  Rendered site/_services.html.erb (3.6ms)
+  Rendered site/_clients.html.erb (21.6ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (42.0ms)
+Completed 200 OK in 170ms (Views: 169.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 18:57:01 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.1ms)
+  Rendered site/_services.html.erb (3.8ms)
+  Rendered site/_clients.html.erb (23.0ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (50.1ms)
+Completed 200 OK in 256ms (Views: 256.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-62390db950c45973d103c7f461dd4d713301b0d50d5381fe9aa5eda9766468e9.css?body=1" for ::1 at 2016-01-24 18:57:02 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 18:59:01 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (5.0ms)
+  Rendered site/_services.html.erb (3.7ms)
+  Rendered site/_clients.html.erb (33.6ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (55.9ms)
+Completed 200 OK in 212ms (Views: 212.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 18:59:41 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.8ms)
+  Rendered site/_services.html.erb (4.4ms)
+  Rendered site/_clients.html.erb (25.9ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (46.8ms)
+Completed 200 OK in 254ms (Views: 253.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-3ae108b35c67acfb9e73e645a245e98a3c8f75900b6ad59f504c19c1a768172d.css?body=1" for ::1 at 2016-01-24 18:59:41 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:00:08 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (6.9ms)
+  Rendered site/_services.html.erb (5.1ms)
+  Rendered site/_clients.html.erb (26.7ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (50.7ms)
+Completed 200 OK in 181ms (Views: 180.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:00:28 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (6.2ms)
+  Rendered site/_services.html.erb (5.6ms)
+  Rendered site/_clients.html.erb (26.5ms)
+  Rendered site/_contact.html.erb (0.2ms)
+  Rendered site/index.html.erb within layouts/application (52.5ms)
+Completed 200 OK in 201ms (Views: 200.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:01:13 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.7ms)
+  Rendered site/_services.html.erb (3.1ms)
+  Rendered site/_clients.html.erb (18.6ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (36.7ms)
+Completed 200 OK in 172ms (Views: 171.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:01:31 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.4ms)
+  Rendered site/_services.html.erb (4.4ms)
+  Rendered site/_clients.html.erb (26.2ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (49.6ms)
+Completed 200 OK in 207ms (Views: 206.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:02:32 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.2ms)
+  Rendered site/_services.html.erb (3.4ms)
+  Rendered site/_clients.html.erb (30.2ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (49.4ms)
+Completed 200 OK in 183ms (Views: 182.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:02:47 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.6ms)
+  Rendered site/_services.html.erb (4.8ms)
+  Rendered site/_clients.html.erb (19.8ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (40.5ms)
+Completed 200 OK in 176ms (Views: 175.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:04:22 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (6.5ms)
+  Rendered site/_services.html.erb (4.1ms)
+  Rendered site/_clients.html.erb (25.3ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (49.1ms)
+Completed 200 OK in 219ms (Views: 219.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:04:30 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.2ms)
+  Rendered site/_services.html.erb (3.3ms)
+  Rendered site/_clients.html.erb (22.3ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (42.0ms)
+Completed 200 OK in 195ms (Views: 194.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:05:08 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.0ms)
+  Rendered site/_services.html.erb (3.2ms)
+  Rendered site/_clients.html.erb (26.0ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (44.3ms)
+Completed 200 OK in 168ms (Views: 167.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:05:53 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.4ms)
+  Rendered site/_services.html.erb (3.2ms)
+  Rendered site/_clients.html.erb (18.2ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (44.6ms)
+Completed 200 OK in 153ms (Views: 153.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:06:22 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (5.2ms)
+  Rendered site/_services.html.erb (4.0ms)
+  Rendered site/_clients.html.erb (32.1ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (53.8ms)
+Completed 200 OK in 223ms (Views: 223.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-22501e34698c9ecb296862fb144e69aa40c35307eb6de092451d0e97f51304b6.css?body=1" for ::1 at 2016-01-24 19:06:22 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:07:56 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.3ms)
+  Rendered site/_services.html.erb (6.1ms)
+  Rendered site/_clients.html.erb (20.9ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (44.9ms)
+Completed 200 OK in 241ms (Views: 240.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-1044dbe003a8deb483dfeb6d65daf469152c0cfbf0ff5b769605b33ee1f4f874.css?body=1" for ::1 at 2016-01-24 19:07:57 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:11:10 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.9ms)
+  Rendered site/_services.html.erb (4.7ms)
+  Rendered site/_clients.html.erb (21.4ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (42.2ms)
+Completed 200 OK in 227ms (Views: 227.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-e0b2cf2655ca001948c10c7adce2d7c16fe85454cd89a7b8e7a2a042f2a92777.css?body=1" for ::1 at 2016-01-24 19:11:11 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:12:21 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (6.2ms)
+  Rendered site/_services.html.erb (4.9ms)
+  Rendered site/_clients.html.erb (35.1ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (63.9ms)
+Completed 200 OK in 278ms (Views: 278.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-89277a8b13a45990d231ae4301092f46dc2701e4e20dd8250091c54930350144.css?body=1" for ::1 at 2016-01-24 19:12:21 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:13:22 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (5.4ms)
+  Rendered site/_services.html.erb (4.1ms)
+  Rendered site/_clients.html.erb (23.2ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (46.3ms)
+Completed 200 OK in 217ms (Views: 216.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-3e0d8dd46f889942181b3c38dc2873ae6be474c471c355909fd3055292defd48.css?body=1" for ::1 at 2016-01-24 19:13:23 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:14:48 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.3ms)
+  Rendered site/_services.html.erb (3.8ms)
+  Rendered site/_clients.html.erb (29.1ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (48.3ms)
+Completed 200 OK in 240ms (Views: 239.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-2bf80ef221eb322403e7d649fd41f170a826850a13db6c2354e1c3bf22dd54dc.css?body=1" for ::1 at 2016-01-24 19:14:48 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:15:52 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.0ms)
+  Rendered site/_services.html.erb (4.1ms)
+  Rendered site/_clients.html.erb (38.4ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (59.1ms)
+Completed 200 OK in 282ms (Views: 281.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-c5b4fbccb7a6a2d1200ed651b4bff30d5b597b431b82f5eeaebcb5b1b56fea79.css?body=1" for ::1 at 2016-01-24 19:15:52 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:16:30 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.6ms)
+  Rendered site/_services.html.erb (3.7ms)
+  Rendered site/_clients.html.erb (30.7ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (52.1ms)
+Completed 200 OK in 276ms (Views: 275.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-a6698c6e19871f09a526f07ceb14f1da4745a9d8b715f59e7bd5c7d2c356037c.css?body=1" for ::1 at 2016-01-24 19:16:30 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:17:00 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (7.1ms)
+  Rendered site/_services.html.erb (5.7ms)
+  Rendered site/_clients.html.erb (39.6ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (73.4ms)
+Completed 200 OK in 319ms (Views: 318.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-22d7ec3286dc1b7c8f43ab062f6eb1d1de617a839ef538bccded89863d831c6a.css?body=1" for ::1 at 2016-01-24 19:17:01 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:17:12 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (7.0ms)
+  Rendered site/_services.html.erb (4.4ms)
+  Rendered site/_clients.html.erb (41.9ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (71.4ms)
+Completed 200 OK in 314ms (Views: 314.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-7934080aca82cd42c6f9f3a6fb8b424411f330601af927bff3103c344c00fad3.css?body=1" for ::1 at 2016-01-24 19:17:12 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:17:21 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.1ms)
+  Rendered site/_services.html.erb (4.5ms)
+  Rendered site/_clients.html.erb (41.0ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (67.5ms)
+Completed 200 OK in 307ms (Views: 307.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-45980c75ebfe452dce7b457ffb467536f3327a9fe36fd5e15c8f20fdf6606dfd.css?body=1" for ::1 at 2016-01-24 19:17:22 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:21:12 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (5.7ms)
+  Rendered site/_services.html.erb (13.2ms)
+  Rendered site/_clients.html.erb (32.0ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (71.2ms)
+Completed 200 OK in 282ms (Views: 281.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-08bab45494e77d62a28f826e86244922e373b8e84909bd12e5e1a8aaed42b20b.css?body=1" for ::1 at 2016-01-24 19:21:12 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:22:41 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.1ms)
+  Rendered site/_services.html.erb (4.1ms)
+  Rendered site/_clients.html.erb (30.9ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (63.9ms)
+Completed 200 OK in 271ms (Views: 270.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-52c142741f1474206efc06bb43d8f4a16c7d0f24d8c4e5dc005072f5021ebffe.css?body=1" for ::1 at 2016-01-24 19:22:41 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:26:52 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.1ms)
+  Rendered site/_services.html.erb (4.1ms)
+  Rendered site/_clients.html.erb (30.8ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (49.6ms)
+Completed 200 OK in 266ms (Views: 265.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-35edff750ad46a0f93a5015f7a30fc869d4cf5d58165f9d3a60eebfd37834ded.css?body=1" for ::1 at 2016-01-24 19:26:52 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:28:33 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (6.3ms)
+  Rendered site/_services.html.erb (6.4ms)
+  Rendered site/_clients.html.erb (38.8ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (70.2ms)
+Completed 200 OK in 368ms (Views: 367.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-afb1c1afeacbec915028e1b017ecf76ee91602266346572b312bb7bc2f773f28.css?body=1" for ::1 at 2016-01-24 19:28:33 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:30:47 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.2ms)
+  Rendered site/_services.html.erb (3.4ms)
+  Rendered site/_clients.html.erb (26.0ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (43.9ms)
+Completed 200 OK in 258ms (Views: 258.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-05a7dfc849b01d7099908a86c0b9ad3b93d81921b6be0c1511a0e12474c2274a.css?body=1" for ::1 at 2016-01-24 19:30:47 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:31:46 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (5.4ms)
+  Rendered site/_services.html.erb (4.9ms)
+  Rendered site/_clients.html.erb (35.3ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (64.5ms)
+Completed 200 OK in 281ms (Views: 280.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-68908f5bbe0e109e6ea0b184c42a025c8de3f0959dd60368dbb155c418d683f9.css?body=1" for ::1 at 2016-01-24 19:31:46 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:32:26 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.3ms)
+  Rendered site/_services.html.erb (3.4ms)
+  Rendered site/_clients.html.erb (23.1ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (50.9ms)
+Completed 200 OK in 241ms (Views: 240.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-b7163a20d77700149c98840d5fa68533bc37cde38afa9823796ac888dc9c1392.css?body=1" for ::1 at 2016-01-24 19:32:26 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:34:00 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (6.9ms)
+  Rendered site/_services.html.erb (6.8ms)
+  Rendered site/_clients.html.erb (40.8ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (75.4ms)
+Completed 200 OK in 278ms (Views: 277.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-6d7f2dc8999bd81985672fc664935c78329f6f76d803a4d60cbd4097867dad36.css?body=1" for ::1 at 2016-01-24 19:34:01 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:34:08 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.6ms)
+  Rendered site/_services.html.erb (3.7ms)
+  Rendered site/_clients.html.erb (33.8ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (54.9ms)
+Completed 200 OK in 274ms (Views: 274.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-61fbe78cc1f96712028d570f79a8a8e489aa2adb8b721e8f634cf973974f7916.css?body=1" for ::1 at 2016-01-24 19:34:09 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:34:17 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.3ms)
+  Rendered site/_services.html.erb (4.4ms)
+  Rendered site/_clients.html.erb (26.5ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (47.8ms)
+Completed 200 OK in 255ms (Views: 254.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-5e635b85b61f3927f50346466b9bf2afb12568b8e855ead678dce148e71fd27b.css?body=1" for ::1 at 2016-01-24 19:34:18 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:34:28 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.2ms)
+  Rendered site/_services.html.erb (4.6ms)
+  Rendered site/_clients.html.erb (22.4ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (44.3ms)
+Completed 200 OK in 247ms (Views: 246.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-086e81468380a32c43261393226b2b24beec0316926a88bee59c14a75e2042fd.css?body=1" for ::1 at 2016-01-24 19:34:28 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:35:02 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (6.6ms)
+  Rendered site/_services.html.erb (5.3ms)
+  Rendered site/_clients.html.erb (28.7ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (58.0ms)
+Completed 200 OK in 274ms (Views: 273.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-e4eea487544c53ed5ca08d0c3e449447054434d0dc2b2dde1354bbf86283e8a1.css?body=1" for ::1 at 2016-01-24 19:35:02 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:35:17 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.3ms)
+  Rendered site/_services.html.erb (4.3ms)
+  Rendered site/_clients.html.erb (28.9ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (48.1ms)
+Completed 200 OK in 276ms (Views: 275.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-ed91f0ef2aea0d773639193e5cc9d91676cdc8ea109a7ece124787f866e2f2dd.css?body=1" for ::1 at 2016-01-24 19:35:18 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:35:37 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.1ms)
+  Rendered site/_services.html.erb (3.6ms)
+  Rendered site/_clients.html.erb (27.6ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (50.7ms)
+Completed 200 OK in 224ms (Views: 223.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:35:48 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (6.3ms)
+  Rendered site/_services.html.erb (4.3ms)
+  Rendered site/_clients.html.erb (19.7ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (42.9ms)
+Completed 200 OK in 183ms (Views: 182.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:36:50 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.1ms)
+  Rendered site/_services.html.erb (4.0ms)
+  Rendered site/_clients.html.erb (18.7ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (37.1ms)
+Completed 200 OK in 163ms (Views: 162.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:37:15 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.6ms)
+  Rendered site/_services.html.erb (4.1ms)
+  Rendered site/_clients.html.erb (21.8ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (53.4ms)
+Completed 200 OK in 191ms (Views: 191.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:38:02 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.3ms)
+  Rendered site/_services.html.erb (4.6ms)
+  Rendered site/_clients.html.erb (41.9ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (69.4ms)
+Completed 200 OK in 295ms (Views: 294.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-4db2df680695cfc184402018984c50a6fe65d6d32f46e6dc93e82f8e9ebb4f2d.css?body=1" for ::1 at 2016-01-24 19:38:02 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:38:21 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (5.5ms)
+  Rendered site/_services.html.erb (5.7ms)
+  Rendered site/_clients.html.erb (26.0ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (61.1ms)
+Completed 200 OK in 253ms (Views: 252.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-2eee589fbf5385a99648d9290bfff0d7b74785fb02b5655f72a05a2777692ee2.css?body=1" for ::1 at 2016-01-24 19:38:21 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:39:28 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.2ms)
+  Rendered site/_services.html.erb (3.4ms)
+  Rendered site/_clients.html.erb (24.9ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (43.1ms)
+Completed 200 OK in 256ms (Views: 255.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-eafcfe60a096b24647c81d5860c42bf10d8618c7c3c7bc323f3c3ef63cf70492.css?body=1" for ::1 at 2016-01-24 19:39:29 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:40:24 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.8ms)
+  Rendered site/_services.html.erb (3.7ms)
+  Rendered site/_clients.html.erb (20.6ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (40.3ms)
+Completed 200 OK in 175ms (Views: 175.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:41:19 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.6ms)
+  Rendered site/_services.html.erb (3.5ms)
+  Rendered site/_clients.html.erb (25.4ms)
+  Rendered site/_contact.html.erb (0.3ms)
+  Rendered site/index.html.erb within layouts/application (44.3ms)
+Completed 200 OK in 172ms (Views: 171.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:41:37 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (8.5ms)
+  Rendered site/_services.html.erb (4.1ms)
+  Rendered site/_clients.html.erb (24.2ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (53.9ms)
+Completed 200 OK in 230ms (Views: 229.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:42:16 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.4ms)
+  Rendered site/_services.html.erb (3.2ms)
+  Rendered site/_clients.html.erb (17.9ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (35.8ms)
+Completed 200 OK in 175ms (Views: 174.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:44:39 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.4ms)
+  Rendered site/_services.html.erb (4.8ms)
+  Rendered site/_clients.html.erb (20.6ms)
+  Rendered site/_contact.html.erb (0.4ms)
+  Rendered site/index.html.erb within layouts/application (40.8ms)
+Completed 200 OK in 189ms (Views: 189.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:45:02 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.3ms)
+  Rendered site/_services.html.erb (3.2ms)
+  Rendered site/_clients.html.erb (23.2ms)
+  Rendered site/_contact.html.erb (0.3ms)
+  Rendered site/index.html.erb within layouts/application (46.7ms)
+Completed 200 OK in 188ms (Views: 187.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:45:13 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (6.4ms)
+  Rendered site/_services.html.erb (5.1ms)
+  Rendered site/_clients.html.erb (33.5ms)
+  Rendered site/_contact.html.erb (0.5ms)
+  Rendered site/index.html.erb within layouts/application (65.0ms)
+Completed 200 OK in 220ms (Views: 219.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:45:39 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.2ms)
+  Rendered site/_services.html.erb (4.5ms)
+  Rendered site/_clients.html.erb (21.0ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (39.8ms)
+Completed 200 OK in 255ms (Views: 254.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-3a0c4bee2beac7df81a20ca1f63bd13135b895320d5bf16a8e504546f31f21c2.css?body=1" for ::1 at 2016-01-24 19:45:39 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:51:28 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (5.7ms)
+  Rendered site/_services.html.erb (7.1ms)
+  Rendered site/_clients.html.erb (37.5ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (69.3ms)
+Completed 200 OK in 305ms (Views: 304.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-ba3a9c23dad3e15fed8afab6da7fe016266dccaca651cd8e3ea77fdb7662bb00.css?body=1" for ::1 at 2016-01-24 19:51:28 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:51:39 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.9ms)
+  Rendered site/_services.html.erb (3.8ms)
+  Rendered site/_clients.html.erb (36.4ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (57.9ms)
+Completed 200 OK in 201ms (Views: 201.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:51:51 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (6.0ms)
+  Rendered site/_services.html.erb (3.4ms)
+  Rendered site/_clients.html.erb (21.4ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (47.5ms)
+Completed 200 OK in 249ms (Views: 249.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-be5e1b943a93d36cd3e57c3b9931aff4a0734a9cbaff5ef7b933616ce1db4aca.css?body=1" for ::1 at 2016-01-24 19:51:52 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:52:09 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.6ms)
+  Rendered site/_services.html.erb (3.7ms)
+  Rendered site/_clients.html.erb (21.7ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (42.0ms)
+Completed 200 OK in 260ms (Views: 259.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-fbd6ef791ed030bd5de746fd2a65c081c62db3887de1b7402aa1d27ebfe2360a.css?body=1" for ::1 at 2016-01-24 19:52:09 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 19:52:22 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (5.4ms)
+  Rendered site/_services.html.erb (3.5ms)
+  Rendered site/_clients.html.erb (32.2ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (54.4ms)
+Completed 200 OK in 200ms (Views: 199.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 19:52:29 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (3.8ms)
+  Rendered site/_services.html.erb (5.1ms)
+  Rendered site/_clients.html.erb (22.8ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (44.1ms)
+Completed 200 OK in 286ms (Views: 285.3ms | ActiveRecord: 0.0ms)
