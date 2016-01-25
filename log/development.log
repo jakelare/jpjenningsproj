@@ -71257,3 +71257,56 @@ Processing by SiteController#index as HTML
   Rendered site/_contact.html.erb (0.0ms)
   Rendered site/index.html.erb within layouts/application (44.1ms)
 Completed 200 OK in 286ms (Views: 285.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-01-24 20:00:53 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (8.8ms)
+  Rendered site/_services.html.erb (7.5ms)
+  Rendered site/_clients.html.erb (52.1ms)
+  Rendered site/_contact.html.erb (0.6ms)
+  Rendered site/index.html.erb within layouts/application (307.7ms)
+Completed 200 OK in 718ms (Views: 717.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-4576671c320cd1f7154b5f28ef46745714f93921c8b6543afd15f069a2ed6212.css?body=1" for ::1 at 2016-01-24 20:00:54 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 20:01:12 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.2ms)
+  Rendered site/_services.html.erb (7.4ms)
+  Rendered site/_clients.html.erb (43.6ms)
+  Rendered site/_contact.html.erb (0.1ms)
+  Rendered site/index.html.erb within layouts/application (72.5ms)
+Completed 200 OK in 289ms (Views: 288.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-ea39c0dfb1bb6850a218d88c2d2ca7a90392818e5db5690bc529baa2a89ba95f.css?body=1" for ::1 at 2016-01-24 20:01:13 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 20:01:37 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.9ms)
+  Rendered site/_services.html.erb (5.8ms)
+  Rendered site/_clients.html.erb (28.3ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (57.5ms)
+Completed 200 OK in 279ms (Views: 278.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-a465c2e6a0bd38eb48e12713f98dc17326b8e8297b4003bd6484d425b1a68ff6.css?body=1" for ::1 at 2016-01-24 20:01:37 -0500
+
+
+Started GET "/" for ::1 at 2016-01-24 20:02:03 -0500
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (4.1ms)
+  Rendered site/_services.html.erb (3.6ms)
+  Rendered site/_clients.html.erb (23.7ms)
+  Rendered site/_contact.html.erb (0.0ms)
+  Rendered site/index.html.erb within layouts/application (52.1ms)
+Completed 200 OK in 252ms (Views: 251.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-52192a49e03e74513ca806451e0325803f38f36815700c58e91cddddb72bbefb.css?body=1" for ::1 at 2016-01-24 20:02:03 -0500
