@@ -71310,3 +71310,17 @@ Completed 200 OK in 252ms (Views: 251.5ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/main.self-52192a49e03e74513ca806451e0325803f38f36815700c58e91cddddb72bbefb.css?body=1" for ::1 at 2016-01-24 20:02:03 -0500
+
+
+Started GET "/" for ::1 at 2016-02-04 16:31:00 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by SiteController#index as HTML
+  Rendered site/_about.html.erb (12.2ms)
+  Rendered site/_services.html.erb (7.6ms)
+  Rendered site/_clients.html.erb (50.3ms)
+  Rendered site/_contact.html.erb (0.5ms)
+  Rendered site/index.html.erb within layouts/application (268.7ms)
+Completed 200 OK in 656ms (Views: 655.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.self-52192a49e03e74513ca806451e0325803f38f36815700c58e91cddddb72bbefb.css?body=1" for ::1 at 2016-02-04 16:31:01 -0500
